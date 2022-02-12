@@ -26,6 +26,7 @@
     "config-updater": "bin/cli.js"
   },
   "dependencies": {
+    "minimist": "^1.2.5",
     "object-assign-deep": "^0.4.0"
   }
 }
